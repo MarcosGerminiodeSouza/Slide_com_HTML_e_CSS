@@ -1,3 +1,3 @@
 ## As Melhores Skins da Poppy
-- Projeto de um desafio anonimo com finalidade de fazer 5 back grounds com botão slide
-- As imagens referente a Poppy, Guardiã do Martelo, Campeã do Legue of Legends  
+- Projeto com finalidade de aprendizado: botão slide, back-grounds, centralização de imagens
+- Imagens de referência a minha Campeã do Legue of Legends favorita: Poppy, A Guardiã do Martelo
